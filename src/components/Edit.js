@@ -3,6 +3,7 @@ import { Button, Form } from "react-bootstrap";
 import "bootstrap/dist/css/bootstrap.min.css";
 import Empolyees from "./Employees";
 // import { v4 as uuid } from "uuid";
+//error resolved
 import {  useNavigate } from "react-router-dom";
 
 const Edit = () => {
